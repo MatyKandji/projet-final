@@ -39,6 +39,7 @@ h5 {
 h6 {
     color: #D8D8D8;
 }
+
 button{
     font-size: 0.8rem;
     font-weight: 700;
@@ -58,7 +59,7 @@ background-color: #3a3833;
     top: 0;
     left: 0;
     box-shadow: 0 5px 10px rgba(3, 3, 3, 0.466);
-
+    
 }
 .navbar-light .navbar-nav .nav-link {
     padding: 0 20px;
@@ -74,10 +75,11 @@ background-color: #3a3833;
 }
 .navbar i{
     font-size: 1.2rem;
-    padding: 0 7px;
+    padding: 0 3px;
     cursor:pointer;
     font-weight: 500;
     transition: 0.3s ease;
+    
 }
 #home span {
     color: rgb(176, 185, 40);
